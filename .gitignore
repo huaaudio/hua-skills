@@ -1,0 +1,6 @@
+skills/pico-email/config.env
+skills/pico-email/start.bat
+skills/pico-email/setup.sh
+skills/pico-email/setup.py
+skills/pico-email/picoclaw-private-key.asc
+skills/pico-email/picoclaw-public-key.asc
