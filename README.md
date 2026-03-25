@@ -16,5 +16,5 @@ Skills that I created might be useful for [PicoClaw](https://github.com/sipeed/p
 Copy the skill folder(s) you want into your PicoClaw skills directory, e.g.:
 
 ```bash
-cp -r audio-playback audio-record audio-convert ~/.picoclaw/skills/
+cp -r [skills] ~/.picoclaw/skills/
 ```
